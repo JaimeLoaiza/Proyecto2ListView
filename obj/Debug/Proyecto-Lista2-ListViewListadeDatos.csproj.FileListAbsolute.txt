@@ -1,0 +1,9 @@
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista2-ListViewListadeDatos\bin\Debug\Proyecto-Lista2-ListViewListadeDatos.exe.config
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista2-ListViewListadeDatos\bin\Debug\Proyecto-Lista2-ListViewListadeDatos.exe
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista2-ListViewListadeDatos\bin\Debug\Proyecto-Lista2-ListViewListadeDatos.pdb
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista2-ListViewListadeDatos\obj\Debug\Proyecto-Lista2-ListViewListadeDatos.csprojAssemblyReference.cache
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista2-ListViewListadeDatos\obj\Debug\Proyecto_Lista2_ListViewListadeDatos.Form1.resources
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista2-ListViewListadeDatos\obj\Debug\Proyecto_Lista2_ListViewListadeDatos.Properties.Resources.resources
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista2-ListViewListadeDatos\obj\Debug\Proyecto-Lista2-ListViewListadeDatos.csproj.GenerateResource.cache
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista2-ListViewListadeDatos\obj\Debug\Proyecto-Lista2-ListViewListadeDatos.exe
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista2-ListViewListadeDatos\obj\Debug\Proyecto-Lista2-ListViewListadeDatos.pdb
