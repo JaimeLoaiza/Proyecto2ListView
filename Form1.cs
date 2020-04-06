@@ -31,7 +31,7 @@ namespace Proyecto_Lista2_ListViewListadeDatos
             txtvalor.Text = String.Empty;
             txtid.Text = String.Empty;
             txtnombreproducto.Text = String.Empty;
-            MessageBox.Show("El Producto fue agregado a la Lista de manera Exitosa");
+            MessageBox.Show("El Producto se agrego a la Lista Exitosamente");
         }
         private void btnlistadeproductos_Click(object sender, EventArgs e)
         {
